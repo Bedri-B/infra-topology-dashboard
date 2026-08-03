@@ -11,6 +11,8 @@ simulated live-status feed the frontend polls every few seconds.
 (`web-01`, `db-01`, ...), no real infrastructure, IPs, or hosting
 provider details.
 
+![Infra Topology Dashboard screenshot](docs/screenshot.png)
+
 ## System architecture
 
 **Topology schema** (`backend/app/schemas.py`): a topology is `hosts`,
